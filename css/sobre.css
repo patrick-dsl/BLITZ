@@ -144,7 +144,7 @@ body {
 @media (max-width: 1000px) {
   .menu {
     font-size: 0.7em;
-    gap: 15px;
+    gap: 20px;
   }
   .sobre-conteudo-principal{
     flex-direction: column;
@@ -163,7 +163,7 @@ body {
   }
   .video-sobre{
     min-width: 300px;
-    scale: 130%;
+    scale: 100%;
     margin-top: 0px;
     margin: auto;
   }
