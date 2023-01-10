@@ -143,7 +143,7 @@ body {
 /* FIM DO CABEÇALHO */
 @media (max-width: 1000px) {
   .menu {
-    font-size: 0.em;
+    font-size: 0.8em;
     gap: 20px;
   }
   .sobre-conteudo-principal{
